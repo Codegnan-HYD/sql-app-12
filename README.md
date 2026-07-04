@@ -6,32 +6,41 @@ SQL application to implement Stored Procedures
 #### Exercise 1: Create a procedure to display all employees.
 ##### Input: None
 
-### Exercise 2: Create a procedure to display all parking spots.
-#### Input: None
+#### Exercise 2: Create a procedure to display all parking spots.
+##### Input: None
 
-### Exercise 3: Create a procedure to display a single employee by employee id.
-#### Input: Employee ID
+#### Exercise 3: Create a procedure to display a single employee by employee id.
+##### Input: Employee ID
 
-### Exercise 4: Create a procedure to display a parking spot by parking spot id.
-#### Input: Parking Spot ID
+#### Exercise 4: Create a procedure to display a parking spot by parking spot id.
+##### Input: Parking Spot ID
 
-### Exercise 5: Create a procedure to display all employees who have assigned parking spots.
-#### Input: None
+#### Exercise 5: Create a procedure to display all employees who have assigned parking spots.
+##### Input: None
 
-### Exercise 6: Create a procedure to display employees without parking spots.
-#### Input: None
+#### Exercise 6: Create a procedure to display employees without parking spots.
+##### Input: None
 
-### Exercise 7: Create a procedure to display all parking spots.
-#### Input: None
+#### Exercise 7: Create a procedure to insert a new employee.
+##### Input: First Name and Last Name
 
-### Exercise 8: Create a procedure to display all parking spots.
-#### Input: None
+#### Exercise 8: Create a procedure to insert a parking spot.
+##### Input: Spot Number and Basement Level
 
-### Exercise 9: Create a procedure to display all parking spots.
-#### Input: None
+#### Exercise 9: Create a procedure that inserts an employee with a parking spot assignment.
+##### Input: First Name, Last Name, and Parking Spot ID
 
-### Exercise 10: Create a procedure to display all parking spots.
-#### Input: None
+#### Exercise 10: Create a procedure to assign a parking spot to an existing employee.
+##### Input: Employee ID and Parking Spot ID
+
+#### Exercise 11: Create a procedure to assign a parking spot to an existing employee.
+##### Input: Employee ID
+
+#### Exercise 12: Create a procedure to remove an employee's parking assignment.
+##### Input: Employee ID
+
+#### Exercise 13: Create a procedure to move an employee from one parking spot to another.
+##### Input: Employee ID and Parking Spot ID
 
 ## Getting Started
 Follow these steps to get a local repository up and running:
