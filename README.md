@@ -21,22 +21,22 @@ SQL application to implement Stored Procedures
 #### Exercise 6: Create a procedure to display employees without parking spots.
 ##### Input: None
 
-#### Exercise 7: Create a procedure to insert a new employee.
-##### Input: First Name and Last Name
+#### Exercise 7: Create a procedure to display parking spots which are unassigned.
+##### Input: None
 
 #### Exercise 8: Create a procedure to insert a parking spot.
 ##### Input: Spot Number and Basement Level
 
-#### Exercise 9: Create a procedure that inserts an employee with a parking spot assignment.
+#### Exercise 9: Create a procedure that inserts an employee with a parking spot.
 ##### Input: First Name, Last Name, and Parking Spot ID
 
-#### Exercise 10: Create a procedure that inserts an employee without a parking spot assignment.
+#### Exercise 10: Create a procedure that inserts an employee without a parking spot.
 ##### Input: First Name and Last Name
 
-#### Exercise 11: Create a procedure to assign a parking spot to an existing employee.
+#### Exercise 11: Create a procedure to assign a parking spot to an existing employee (manual parking spot assignment).
 ##### Input: Employee ID and Parking Spot ID
 
-#### Exercise 12: Create a procedure to assign a parking spot to an existing employee.
+#### Exercise 12: Create a procedure to assign a parking spot to an existing employee (automatic parking spot assignment).
 ##### Input: Employee ID
 
 #### Exercise 13: Create a procedure to remove an employee's parking assignment.
