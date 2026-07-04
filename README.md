@@ -3,8 +3,8 @@ SQL application to implement Stored Procedures
 
 ## Problem Statement
 
-### Exercise 1: Create a procedure to display all employees.
-#### Input: None
+#### Exercise 1: Create a procedure to display all employees.
+##### Input: None
 
 ### Exercise 2: Create a procedure to display all parking spots.
 #### Input: None
