@@ -30,17 +30,23 @@ SQL application to implement Stored Procedures
 #### Exercise 9: Create a procedure that inserts an employee with a parking spot assignment.
 ##### Input: First Name, Last Name, and Parking Spot ID
 
-#### Exercise 10: Create a procedure to assign a parking spot to an existing employee.
-##### Input: Employee ID and Parking Spot ID
+#### Exercise 10: Create a procedure that inserts an employee without a parking spot assignment.
+##### Input: First Name and Last Name
 
 #### Exercise 11: Create a procedure to assign a parking spot to an existing employee.
-##### Input: Employee ID
-
-#### Exercise 12: Create a procedure to remove an employee's parking assignment.
-##### Input: Employee ID
-
-#### Exercise 13: Create a procedure to move an employee from one parking spot to another.
 ##### Input: Employee ID and Parking Spot ID
+
+#### Exercise 12: Create a procedure to assign a parking spot to an existing employee.
+##### Input: Employee ID
+
+#### Exercise 13: Create a procedure to remove an employee's parking assignment.
+##### Input: Employee ID
+
+#### Exercise 14: Create a procedure to move an employee from one parking spot to another.
+##### Input: Employee ID, Existing Parking Spot ID, and New Parking Spot ID
+
+#### Exercise 15: Create a procedure to remove an employee.
+##### Input: Employee ID
 
 ## Getting Started
 Follow these steps to get a local repository up and running:
